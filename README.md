@@ -2,6 +2,8 @@
 
 This adds simple SVG support for tipsy. The SVG related code is taken directly from: https://github.com/logical42/tipsy-svg--for-rails
 
+(c) Nate Agrin 2012 (nate@chart.io)
+
 # tipsy
 
 Facebook-style tooltip plugin for jQuery
